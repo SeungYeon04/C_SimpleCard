@@ -8,6 +8,8 @@
 
 • 엔진: 유니티  
 • 언어: C#  
+• IDE: Visual Studio  
+• VCS: Github desktop  
 
 ## 🕹 주요기능  
 
